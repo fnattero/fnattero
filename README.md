@@ -13,7 +13,7 @@ AI safety.
 I'm also an AI consultant at Nubax, where I serve open-weight models on in-house H100/H200
 clusters and build RAG and multi-agent systems.
 
-### Recent work:
+### Recent work
 
 **Active Learners as Efficient PRP Rerankers** — Findings of the ACL: EMNLP 2026.
 J. Figueiredo Paschmann, J. Kaplan, **F. Nattero**, S. Barron Bucolo, J. Wisznia, L. Del Corro.
