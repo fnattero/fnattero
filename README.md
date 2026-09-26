@@ -1,6 +1,6 @@
 # Francisco Nattero
 
-AI Engineering student at Universidad de San Andrés, Buenos Aires.
+AI Engineering student at Universidad de San Andrés, Argentina.
 Student member at [ELIAS Lab](https://eliaslab.ai).
 
 My interests are at the intersection of robotics and language. The direction I want to take
