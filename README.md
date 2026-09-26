@@ -1,6 +1,6 @@
 # Francisco Nattero
 
-AI Engineering student at Universidad de San Andrés, Buenos Aires.
+AI Engineering student at Universidad de San Andrés.
 Student member at [ELIAS Lab](https://eliaslab.ai).
 
 **Active Learners as Efficient PRP Rerankers** — Findings of the ACL: EMNLP 2026.
