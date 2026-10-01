@@ -1,7 +1,6 @@
 # Francisco Nattero
 
 AI Engineering student at Universidad de San Andrés, Argentina.
-Student member at [ELIAS Lab](https://eliaslab.ai).
 
 My interests are at the intersection of robotics and language. The direction I want to take
 next is open-vocabulary 3D semantic mapping with adaptive granularity — whether intermediate
@@ -25,6 +24,6 @@ J. Figueiredo Paschmann, J. Kaplan, **F. Nattero**, S. Barron Bucolo, J. Wisznia
   FastSLAM with occupancy-grid particles in C++, MCL localisation and A* planning for TurtleBot3.
 - [contact-outreach](https://github.com/fnattero/contact-outreach) —
   Reads a B2B company's incoming customer emails and answers only what it's allowed to answer, escalating anything needing judgment to a person. It also
-  finds new prospects, but the AI never writes or targets that first message.
+  finds new prospects.
 
 📫 fnattero@udesa.edu.ar · [LinkedIn](https://www.linkedin.com/in/francisconattero/)
